@@ -36,7 +36,7 @@ glob2==0.4.1
 greenlet==0.4.12
 gufw==17.4.1
 gunicorn==19.3.0
-httpie==0.9.8
+httpie==1.0.3
 humanize==0.5.1
 idna==2.4
 infinity==1.4
